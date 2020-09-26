@@ -10,5 +10,6 @@ interface ApiService {
     @GET("repositories")
     suspend fun getData() : GitHubDataModel
 
-    //Response<List<GitHubDataModelItem>>
+//Response<List<GitHubDataModelItem>>
+
 }

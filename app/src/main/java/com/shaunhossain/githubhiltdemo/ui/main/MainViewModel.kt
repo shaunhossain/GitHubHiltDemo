@@ -4,7 +4,7 @@ import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.liveData
-import com.shaunhossain.githubhiltdemo.DataUseCase.DataUseCase
+import com.shaunhossain.githubhiltdemo.datausecase.DataUseCase
 import com.shaunhossain.githubhiltdemo.model.GitHubDataModel
 import com.shaunhossain.githubhiltdemo.model.Resource
 

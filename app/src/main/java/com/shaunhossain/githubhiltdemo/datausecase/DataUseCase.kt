@@ -1,4 +1,4 @@
-package com.shaunhossain.githubhiltdemo.DataUseCase
+package com.shaunhossain.githubhiltdemo.datausecase
 
 import com.shaunhossain.githubhiltdemo.model.GitHubDataModel
 import com.shaunhossain.githubhiltdemo.model.Resource
